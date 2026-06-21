@@ -1,0 +1,26 @@
+trusthub/
+├── index.html
+├── login.html
+├── register.html
+├── dashboard.html
+├── citizen-dashboard.html
+├── 404.html
+├── robots.txt
+├── sitemap.xml
+├── .vercel/
+│   └── project.json
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── dashboard.js
+│   └── citizen.js
+├── assets/
+│   ├── images/
+│   │   ├── logo.svg
+│   │   ├── hero-bg.svg
+│   │   └── favicon.ico
+│   └── icons/
+│       ├── apple-touch-icon.png
+│       └── favicon-32x32.png
+└── vercel.json
